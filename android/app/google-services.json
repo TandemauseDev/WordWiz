@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818422055371",
+    "project_id": "wordwiz-d3f55",
+    "storage_bucket": "wordwiz-d3f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818422055371:android:2325645554492c362b764e",
+        "android_client_info": {
+          "package_name": "com.meproject.wordwiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAED5r8vGgTVy8nFq3lyTuY9KJhdpQvIi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
